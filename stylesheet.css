@@ -64,7 +64,7 @@
 }
 
 a {
-  color: #1772d0;
+  color: #e79717e9;
   text-decoration: none;
 }
 
@@ -81,7 +81,8 @@ tr,
 p,
 a {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 14px
+  font-size: 14px;
+  
 }
 
 strong {
@@ -105,6 +106,12 @@ name {
   font-size: 32px;
 }
 
+abs {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 14px;
+  color:
+  	#EB6400;
+}
 .one {
   width: 160px;
   height: 160px;

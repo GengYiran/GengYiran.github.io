@@ -71,6 +71,10 @@ b {
   color: #ff0000;
   text-decoration: none;
 }
+c {
+  color: #000000;
+  text-decoration: none;
+}
 a:focus,
 a:hover {
   color: #f09228;

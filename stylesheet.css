@@ -107,6 +107,14 @@ heading {
   text-decoration-color: #fba524; /* #ac715b; */
 }
 
+heading2 {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 25px;
+  /*color: #313164;*/
+  -webkit-text-decoration-color: #ad7020;
+  text-decoration-color: #fba524; /* #ac715b; */
+}
+
 papertitle {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 14px;

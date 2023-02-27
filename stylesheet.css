@@ -75,11 +75,23 @@ c {
   color: #000000;
   text-decoration: none;
 }
+d {
+  color: #1d56f2;
+  text-decoration: none;
+}
 a:focus,
 a:hover {
   color: #f09228;
   text-decoration: none;
 }
+
+d:focus,
+d:hover {
+  color: #1d56f2;
+  text-decoration: none;
+}
+
+
 
 body,
 td,
@@ -87,6 +99,10 @@ th,
 tr,
 p,
 a {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 14px;
+}
+d {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 14px;
   

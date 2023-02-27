@@ -64,7 +64,7 @@
 }
 
 a {
-  color: #e79717e9;
+  color: #db9a02;
   text-decoration: none;
 }
 b {
@@ -78,13 +78,13 @@ c {
 
 a:focus,
 a:hover {
-  color: #f09228;
+  color: #6e3519;
   text-decoration: none;
 }
 
 a.a1 { color:rgb(200, 22, 254);}
 a.a1:focus,
-a.a1:hover { color:rgb(34, 254, 22);
+a.a1:hover { color:rgb(95, 23, 110);
   text-decoration: none;}
 
 

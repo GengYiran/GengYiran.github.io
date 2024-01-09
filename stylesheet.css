@@ -164,3 +164,7 @@ abs {
 span.highlight {
   background-color: #ffffd0;
 }
+
+.yellow-background {
+  background-color: lightyellow;
+}

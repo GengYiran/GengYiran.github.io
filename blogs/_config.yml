@@ -2,9 +2,9 @@
 title: Yiran Geng's Blog
 email: 
 description: ""
-baseurl: /blogs
+baseurl: "/blogs"
 url: https://gengyiran.github.io
-twitter_username: Yiran Geng
+twitter_username: geng_yiran
 github_username:  GengYiran
 
 # Build settings

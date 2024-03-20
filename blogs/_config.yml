@@ -1,11 +1,11 @@
 # Site settings
-title: Andrej Karpathy blog
+title: Yiran Geng's Blog
 email: 
-description: "Musings of a Computer Scientist."
+description: ""
 baseurl: ""
-url: "http://karpathy.github.io"
-twitter_username: karpathy
-github_username:  karpathy
+url: "http://genyiran.github.io"
+twitter_username: Yiran Geng
+github_username:  GengYiran
 
 # Build settings
 markdown: kramdown

@@ -5,4 +5,4 @@ permalink: /about/
 includelink: true
 ---
 
-See my [website](gengyiran.github.io).
+See my [website](https://karpathy.ai/).

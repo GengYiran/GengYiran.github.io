@@ -2,7 +2,9 @@
 ##### Jiayi, Yiran, Yitao
 
 (continually updating ...)
-# Overview
+
+### Overview
+
 - Books
 	- Theory of Deep Learning
 	- RL: an Introduction (Sutton)
@@ -10,10 +12,13 @@
 	- 动手学深度学习 https://zh.d2l.ai/
 	- 动手学强化学习 HRL https://hrl.boyuai.com/
 
-# Pre-requisites
+### Pre-requisites
+
 - create conda environment
 - pip install packages
-# RL: an Introduction (Sutton)
+
+### RL: an Introduction (Sutton)
+
 Reference materials below do not need to be read in full! They are to serve your learning, not to add extra pressure~
 - Free Online Book
 http://incompleteideas.net/book/RLbook2020.pdf

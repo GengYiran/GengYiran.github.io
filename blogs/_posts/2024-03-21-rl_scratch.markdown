@@ -4,7 +4,7 @@ comments: true
 #title:  "Reproducing and Improving LeCun et al. 1989 ConvNet"
 title: "Reinforcement Learning From Scratch"
 excerpt: "By Jiayi, Yiran, Yitao (continually updating ...)"
-date:   2024-03-22 14:00:00
+date:   2024-03-21 14:00:00
 mathjax: false
 ---
 

@@ -5,3 +5,5 @@
 /blogs/_drafts/
 ./blogs/Gemfile
 ./blogs/Gemfile.lock
+/.jekyll-cache/
+.jekyll-cache/

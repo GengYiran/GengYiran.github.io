@@ -1,1 +1,0 @@
-I am a junior undergraduate student in the Turing class at the School of EECS, Peking University , co-advised by Prof. Hao Dong and Prof. Yaodong Yang.
